@@ -25,7 +25,7 @@ Still learning, but this lab helped me move beyond running queries to **actual i
 
 ## Screenshots
 
-See the `screenshots/` folder for visuals:
+See the screenshot files for visuals:
 
 1. 01_IP_detection.png  
 2. 02_member_php_endpoint.png  
